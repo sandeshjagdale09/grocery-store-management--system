@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+logs/
+data/
+ target/
+node_modules/
+build/
+*.jar
+*.war
+*.log
+.idea/
+.vscode/

@@ -1,0 +1,19 @@
+target/
+*.log
+*.jar
+*.war
+.idea/
+.vscode/
+# Backend
+target/
+*.log
+*.jar
+*.war
+
+# Frontend
+node_modules/
+build/
+
+# IDE
+.idea/
+.vscode/
