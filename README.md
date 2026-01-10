@@ -4,8 +4,6 @@
 
 ### About the project
 
-Final, practical project concluding the QA Academy Software Development Bootcamp.
-
 The project consolidates the following concepts from the core training modules:
 * Agile & Project Management (Git, Jira)
 * Databases & Cloud Fundamentals (MySQL)
@@ -297,3 +295,4 @@ Finally, I had problems with both Java and Maven which I had to solve by doing a
 * [Class Diagram](https://github.com/M-AliFida/QA-practical-spring-project/blob/main/Documentation/Diagrams/Class%20Diagram.jpg)
 * [Entity-Relationship Diagram](https://github.com/M-AliFida/QA-practical-spring-project/blob/main/Documentation/Diagrams/Entity-Relationship%20DIagram%20(super_market).jpg)
 * [Jira Board](https://m-a-f.atlassian.net/jira/software/projects/DFE/boards/1)
+
